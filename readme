@@ -6,4 +6,3 @@ git branch -M main
 git remote add origin https://github.com/marpiloter/sasa.git
 git push -u orig
 in main
-

@@ -5,7 +5,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://git
 
-hub.com/marpiloter/sasa.git
+hub.com/
+marpiloter/sasa.git
 git push -u orig
 in ain
 

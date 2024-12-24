@@ -7,6 +7,8 @@ git remote add origin https://git
 
 hub.com/
 marpiloter/sasa.git
-git push -u orig
+git push
+-u orig
 in ain
+
 

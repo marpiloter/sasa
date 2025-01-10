@@ -3,9 +3,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://git
-
-hub.com/
+git remote add origin https://github.com/
 marpiloter/sasa.git
 git push
 -u orig
